@@ -1,0 +1,8 @@
+python-3.10.0
+mediapipe-0.10.20
+Streamlit version 1.41.1
+protobuf 4.25
+numpy-Version: 1.26.4
+opencv-contrib-python:Version- 4.10.0.84
+opencv-python:version-4.10.0
+
